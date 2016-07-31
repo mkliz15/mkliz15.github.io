@@ -28,7 +28,7 @@ li{
 }
 
 .avatar-image{
-	position: relative;
+	position: absolute;
 	top: -60px;
 	left: 60px;
 	width: 120px;
