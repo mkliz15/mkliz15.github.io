@@ -30,7 +30,7 @@ li{
 .avatar-image{
 	position: absolute;
 	top: -60px;
-	left:100%;
+	left: 60px;
 	width: 120px;
 	height: 120px;
 	border-radius: 50%;
@@ -92,6 +92,6 @@ li{
 }
 
 .social-image {
-	width: 50%;
+	width:100%;
 }
 
