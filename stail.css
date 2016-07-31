@@ -17,7 +17,7 @@ li{
 	line-height : 1.5;
 	position: relative;
 	box-sizing: border-box;
-	width: 80%;
+	width: 100%;
 	max-width: :630px;
 	margin: 0 auto;
 	padding: 80px 75px;
@@ -30,7 +30,7 @@ li{
 .avatar-image{
 	position: absolute;
 	top: -60px;
-	left: 40%;
+	left:100%;
 	width: 120px;
 	height: 120px;
 	border-radius: 50%;
@@ -92,6 +92,6 @@ li{
 }
 
 .social-image {
-	width: 100px;
+	width: 50%;
 }
 
