@@ -82,11 +82,11 @@ li{
 	display: block;
 	width: 45px;
 	margin-right: 12px;
-	-moz-transition: -moz-transform .4s ease-in;
+	-moz- transition: -moz- transform .4s ease-in;
 }
 
 .social-image:hover{
-	-moz-transform: scale(1.1);
+	-moz- transform: scale(1.1);
 
 
 }
