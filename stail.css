@@ -74,7 +74,7 @@ li{
 	margin-top: 30px;
 }
 
-.social li{
+.social li {
 	display: inline-block;
 }
 
@@ -85,13 +85,13 @@ li{
 	-moz- transition: -moz- transform .4s ease-in;
 }
 
-.social-image:hover{
-	-moz- transform: scale(1.1);
+.social-image:hover {
+	-moz- transform: scale(1, 1);
 
 
 }
 
-.social-image{
+.social-image {
 	width: 100%;
 }
 
